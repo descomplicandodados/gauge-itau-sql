@@ -1,0 +1,32 @@
+first_name,last_name,city,order_date,order_details,total_order_cost
+Emma,Isaac,Miami,,,
+Eva,Lucas,Arizona,11/01/2019,Coat,125.0
+Eva,Lucas,Arizona,11/01/2019,Shirts,60.0
+Eva,Lucas,Arizona,11/03/2019,Slipper,20.0
+Farida,Joseph,San Francisco,04/03/2019,Coat,100.0
+Farida,Joseph,San Francisco,19/04/2019,Shirts,50.0
+Farida,Joseph,San Francisco,01/03/2019,Shoes,80.0
+Farida,Joseph,San Francisco,07/03/2019,Skirt,30.0
+Henry,Jackson,Miami,01/02/2019,Shoes,80.0
+Jack,Aiden,Arizona,,,
+Jill,Michael,Austin,01/02/2019,Coat,25.0
+Jill,Michael,Austin,03/04/2019,Dresses,50.0
+Jill,Michael,Austin,10/03/2019,Shoes,80.0
+Jill,Michael,Austin,02/04/2019,Skirt,30.0
+Jill,Michael,Austin,01/04/2019,Suit,50.0
+Jill,Michael,Austin,19/04/2019,Suit,150.0
+John,Joseph,San Francisco,,,
+Justin,Alexander,Denver,,,
+Liam,Samuel,Miami,,,
+Lili,Oliver,Los Angeles,,,
+Mark,Thomas,Arizona,,,
+Mia,Owen,Miami,01/02/2019,Boats,100.0
+Mia,Owen,Miami,20/04/2019,Dresses,200.0
+Mia,Owen,Miami,01/03/2019,Jeans,80.0
+Mia,Owen,Miami,09/03/2019,Shirts,50.0
+Mia,Owen,Miami,11/01/2019,Shirts,60.0
+Mia,Owen,Miami,19/04/2019,Skirt,30.0
+Mia,Owen,Miami,11/03/2019,Slipper,20.0
+Mona,Adrian,Los Angeles,,,
+William,Daniel,Denver,11/01/2019,Shirts,60.0
+William,Daniel,Denver,01/02/2019,Shoes,80.0
