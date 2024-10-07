@@ -1,5 +1,7 @@
 # CASES TESTE SQL
 
+Após a descrição dos cases abaixo, haverá o tutorial de como executar os arquivos.
+
 # CASE 1
 Encontre a data da atividade e a pe_description das instalações com o nome 'STREET CHURROS' e com uma pontuação inferior a 95 pontos.
 Tabela: los_angeles_restaurant_health_inspections
@@ -25,25 +27,24 @@ Tabela: sf_events
 Selecione o client_id mais popular com base na contagem do número de usuários que têm pelo menos 50% de seus eventos da seguinte lista: 'video call received', 'video call sent', 'voice call received', 'voice call sent'.
 Tabela: fact_events
 
-
-# Requisitos
-
--Greenlet
--Numpy
--Pandas
--Psycopg2-binary
--Python-dateutil
--Pytz
--Six
--SQLAlchemy
--Typing_extensions
--Tzdata
-
 ## Pré-requisitos
 
 Antes de começar, você precisará ter o docker instalado na sua máquina:
 
 - [Docker](https://docs.docker.com/get-docker/)
+
+# Requisitos
+
+- Greenlet
+- Numpy
+- Pandas
+- Psycopg2-binary
+- Python-dateutil
+- Pytz
+- Six
+- SQLAlchemy
+- Typing_extensions
+- Tzdata
 
 # Como executar
 
