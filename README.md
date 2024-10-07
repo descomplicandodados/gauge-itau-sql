@@ -1,6 +1,9 @@
 # CASES TESTE SQL
 
 Após a descrição dos cases abaixo, haverá o tutorial de como executar os arquivos.
+Arquivos com os scritps python e explicações
+- load.py
+- cases_sql.py
 
 # CASE 1
 Encontre a data da atividade e a pe_description das instalações com o nome 'STREET CHURROS' e com uma pontuação inferior a 95 pontos.
